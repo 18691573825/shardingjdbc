@@ -43,3 +43,6 @@ master_log_file  主库命令行中的file值
 master_log_pos 主库命令行中的position值
 
 最后重启服务进行测试
+
+# 下载github包
+https://d.serctl.com/
